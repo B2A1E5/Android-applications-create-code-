@@ -8,4 +8,5 @@ Cannot create /storage/emulated/0/Android/data/com.rarlab.rar/files/_rartemp_ope
 • Permission denied
 Cannot create /storage/emulated/0/Android/data/com.rarlab.rar/files/_rartemp_open_1749266018936/listbuysell-marketplace/listbuysell-marketplace/screenshot-homepage.webp
 • Permission denied
-https://youtube.com/shorts/lR_JZSSWOzM?si=e_qAt0V1z_PVJabf
+https://youtube.com/shorts/lR_JZSSWOzM?si=e_qAt0V1z_PVJabfCannot create /storage/emulated/0/Android/data/com.rarlab.rar/files/_rartemp_open_1749268207993/MANUS FILES /storage/emulated/0/DOC-20250607-WA0002.rar
+• Socket operation on non-socket
